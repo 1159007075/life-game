@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a94db2a-d93f-4078-8e38-7ed3f909f4a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hEexvxkEUiLENVh4CNJQ32Vuj6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="game" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Main" />
+      <module name="life-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.test" />
+      <module name="life-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="life-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game" />
+      <option name="MAIN_CLASS_NAME" value="game.LogicTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.LogicTest" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a94db2a-d93f-4078-8e38-7ed3f909f4a9" name="Default Changelist" comment="" />
+      <created>1599581105776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599581105776</updated>
+      <workItem from="1599581106864" duration="2053000" />
+      <workItem from="1599583476796" duration="183000" />
+      <workItem from="1599616313922" duration="7507000" />
+      <workItem from="1599639622118" duration="250000" />
+      <workItem from="1600065539899" duration="2409000" />
+      <workItem from="1600131962266" duration="43000" />
+      <workItem from="1600136932509" duration="3108000" />
+      <workItem from="1600163498721" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1420" height="327" key="GridCell.Tab.0.bottom" timestamp="1600140067011">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1600140067011" />
+    <state width="1420" height="327" key="GridCell.Tab.0.center" timestamp="1600140067011">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1600140067011" />
+    <state width="1420" height="327" key="GridCell.Tab.0.left" timestamp="1600140067011">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1600140067011" />
+    <state width="1420" height="327" key="GridCell.Tab.0.right" timestamp="1600140067011">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="327" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1600140067011" />
+    <state x="744" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600137883730">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="744" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1463.874@0.0.1463.874" timestamp="1600137883730" />
+    <state x="818" y="119" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1600137987107">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="818" y="119" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1463.874@0.0.1463.874" timestamp="1600137987107" />
+    <state x="462" y="196" key="extract.method.dialog" timestamp="1599631853422">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="462" y="196" key="extract.method.dialog/0.0.1463.874@0.0.1463.874" timestamp="1599631853422" />
+    <state x="101" y="47" key="new project wizard" timestamp="1600132002631">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="101" y="47" key="new project wizard/0.0.1463.874@0.0.1463.874" timestamp="1600132002631" />
+    <state x="389" y="199" key="run.anything.popup" timestamp="1599581224628">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="389" y="199" key="run.anything.popup/0.0.1463.874@0.0.1463.874" timestamp="1599581224628" />
+    <state x="394" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1600069929244">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="394" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1463.874@0.0.1463.874" timestamp="1600069929244" />
+  </component>
+</project>
